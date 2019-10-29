@@ -1,3 +1,2 @@
 # Projects
-Projects that I have worked on at UNCC.
-Projects will have their own branches.
+First Programming class I took. This was the final project that I made.
